@@ -1,0 +1,5 @@
+scrapy==2.16.0
+lxml
+parsel
+cssselect
+w3lib
